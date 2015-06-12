@@ -68,4 +68,5 @@ ctlUpload.each do |x|
 end
  
 output_file.close
+
 puts "Upload file has been created called #{assignment_title}"
